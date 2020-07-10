@@ -1,4 +1,4 @@
-This is a react Beach Resort website.
+This is a React Beach Resort rooms website.
 
 You can access the website online via this link: https://my-react-beach-resort-app.netlify.app/
 
