@@ -1,3 +1,7 @@
+This is a React Beach Resort rooms website.
+
+You can access the website online via this link: https://my-react-beach-resort-app.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
