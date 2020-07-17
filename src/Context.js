@@ -57,6 +57,7 @@ class RoomProvider extends Component {
   componentDidMount() {
     this.getData();
   }
+
   formatData(items) {
     let tempItems = items.map((item) => {
       let id = item.sys.id;
